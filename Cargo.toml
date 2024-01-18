@@ -1,0 +1,10 @@
+#[package]
+name = "mipt_Rust_Programming"
+version = "0.1.0"
+edition = "2023"
+
+[workspace]
+members = [
+    # Problems
+    "problems/tutorial/add",
+]
