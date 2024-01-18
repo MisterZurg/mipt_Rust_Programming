@@ -20,3 +20,49 @@
 - To [Alexander Stanovoy](https://www.linkedin.com/in/alexstanovoy/) for his [lecture course](https://www.youtube.com/playlist?list=PL4_hYwCyhAvbeLzi699gqMUA4UaPkcdmJ) and materials you currently seeing in the repo.
 - To [Sergei Fomin](https://gitlab.com/meandrobo) for permission to use the part of [problems and materials](https://gitlab.com/meandrobo/shad-rust) of the Rust Programming Language course from [Yandex School of Data Analysis](https://yandexdataschool.com).
 - To [Fedor Korotkiy](https://gitlab.com/slon) for setting up CI via Manytask.
+
+## Roadmap
+- [x] Tutorial
+  - add
+- Intro
+  - combinations
+  - conway
+  - min-queue
+- Library Collections
+  - comm
+  - prefix
+  - lru-cache
+- Traits
+  - trust
+  - mpsc
+  - flatmap
+  - itertools
+- Modules
+  - trie
+  - ripgzip
+
+- Borrowing
+  - pstack
+  - context
+  - bst
+
+- Macros
+  - fswalk
+  - gc
+  - mini-frunk
+
+- Macros 2
+  - orm
+ 
+- Parallel computing
+  - thread-pool
+  - tcp-proxy
+  - pargrep
+
+- Unsafe code
+  - smol-vec
+  - snapshot
+
+- Asynchronous computing
+  -  crawler
+  - babencoin
